@@ -6,6 +6,7 @@
 
 <script>
 import Agenda from './components/MainAgenda.vue'
+
 export default {
   name: 'App',
   components: {
