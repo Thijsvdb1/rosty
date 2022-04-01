@@ -1,15 +1,17 @@
 <template>
   <div id = "App">
-    <agenda />
       <header>
         <navbar />
-      </header>
+      </header>    
+     <agenda />
+
   </div>  
 </template>
 
 <script>
-import Navbar from './components/NavBar.vue';
-import Agenda from './components/MainAgenda.vue';
+import Agenda from './components/EventCalendar.vue';
+import Navbar from './components/NavBar.vue'; 
+
 export default {
   name: 'App',
   components: {

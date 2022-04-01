@@ -22,3 +22,13 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+required packages:
+    npm install fullcalendar/vue
+    npm install fullcalendar/daygrid
+    npm install fullcalendar/timegrid
+    npm install fullcalendar/interaction
+    npm install fullcalendar/list
+
