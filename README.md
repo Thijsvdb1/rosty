@@ -26,9 +26,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 required packages:
-    npm install fullcalendar/vue
-    npm install fullcalendar/daygrid
-    npm install fullcalendar/timegrid
-    npm install fullcalendar/interaction
-    npm install fullcalendar/list
+    npm install --save @fullcalendar/core @fullcalendar/vue @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @fullcalendar/interaction --force
 
